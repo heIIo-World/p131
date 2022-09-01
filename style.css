@@ -1,0 +1,27 @@
+h1
+{
+font-size: 29px;
+width: 100%;
+margin: 0px;
+font-weight:800;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body {
+    background-position:center;
+}
+
+canvas {
+    box-shadow:10px 10px 10px grey;
+    border-radius:10px;
+}
+
+a{
+font-size:20px;
+font-weight:1000;
+
+}
